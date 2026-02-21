@@ -1,0 +1,5 @@
+{
+  "name": "AI SmartBoard Tutor",
+  "description": "An AI-powered education platform with an animated teacher and interactive smartboard.",
+  "requestFramePermissions": ["microphone"]
+}
